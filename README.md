@@ -1,2 +1,2 @@
-# atividade-github
-Atividade Faculdade
+# Atividade de GitHub
+Este repositório foi criado para praticar versionamento.
